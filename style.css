@@ -298,7 +298,7 @@ img {
 
 #skills .skills-items {
     width: 400px;
-    margin-left: auto;
+   /* margin-left: auto;*/
     display: flex;
    flex-direction: column;
     justify-content: center;
@@ -493,7 +493,7 @@ img {
 
 #contact .contact-items {
     width: 400px;
-    margin-left: auto;
+   /* margin-left: auto;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
