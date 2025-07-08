@@ -232,7 +232,7 @@ img {
     background-image: linear-gradient(60deg, #ffab51 0%, #0077ff 100%);
     background-size: cover;
     background-position: top center;
-    height:70vh;
+    height:60vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -248,7 +248,7 @@ img {
 #one h1 {
     display: block;
     width: fit-content;
-    font-size: 3rem;
+    font-size: 3.5rem;
     position: relative;
     color: transparent;
     animation: text_reveal 0.5s ease forwards;
@@ -619,7 +619,7 @@ img {
     }
 
     #one h1 {
-        font-size: 7rem;
+        font-size: 6rem;
     }
 
     #skills .skills {
