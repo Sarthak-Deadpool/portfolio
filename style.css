@@ -220,7 +220,7 @@ img {
 
 .brand h1 {
     text-transform: uppercase;
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: black;
 }
 
@@ -248,7 +248,7 @@ img {
 #one h1 {
     display: block;
     width: fit-content;
-    font-size: 3rem;
+    font-size: 2.5rem;
     position: relative;
     color: transparent;
     animation: text_reveal 0.5s ease forwards;
