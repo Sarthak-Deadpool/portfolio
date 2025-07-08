@@ -299,6 +299,10 @@ img {
 #skills .skills-items {
     width: 400px;
     margin-left: auto;
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #skills .skills-item {
@@ -490,6 +494,10 @@ img {
 #contact .contact-items {
     width: 400px;
     margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #contact .contact-item {
