@@ -232,6 +232,7 @@ img {
     background-image: linear-gradient(60deg, #ffab51 0%, #0077ff 100%);
     background-size: cover;
     background-position: top center;
+    height:70vh;
     display: flex;
     align-items: center;
     justify-content: center;
